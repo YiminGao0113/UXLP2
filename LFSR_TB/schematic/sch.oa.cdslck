@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Fri Apr 22 15:30:17 2022 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /net/redfox.ece.Virginia.EDU/isan0/users/yg9bq/cadence/asap7/UXLP2/Testbench_TB/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Fri Apr 22 15:38:56 2022 EDT
+FilePathUsedToEditLock         /net/redfox.ece.Virginia.EDU/isan0/users/yg9bq/cadence/asap7/UXLP2/LFSR_TB/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri Apr 22 15:49:49 2022 EDT
