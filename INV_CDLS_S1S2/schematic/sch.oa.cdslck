@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      qus9bh
+HostName                       goose.ece.Virginia.EDU
+ProcessIdentifier              8751
+ProcessCreationTime_UTC        1650764321
+ProcessCreationTime_Readable   Sat Apr 23 21:38:41 2022 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /net/redfox.ece.Virginia.EDU/isan0/users/qus9bh/cadence/asap7/UXLP2/INV_CDLS_S1S2/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Apr 24 00:45:11 2022 EDT
